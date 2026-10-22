@@ -47,3 +47,6 @@ Dataset size:
 Mall data set: Over 2000 Frames/Images, 21 training sets, 21 testing sets of video.
 Merl dataset: 106 videos of people shopping in a grocery-store setting, recorded from a fixed overhead camera. Each video is about two minutes long.
 
+
+Google Doc:https://docs.google.com/document/d/1BGIz4XP0IiK460JMR4NI85d7eCQkjVdntJ2RPkOFDP4/edit?usp=sharing
+
