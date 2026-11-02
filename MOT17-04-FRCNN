@@ -1,1 +1,20 @@
+# Set up the MOT17 sequence folder named MOT17-04-FRCNN
+# This organizes the image sample, detection file, and ground-truth file into
+# the standard MOT17 structure expected by many tracking/evaluation scripts.
 
+mkdir -p MOT17-04-FRCNN/img1 MOT17-04-FRCNN/det MOT17-04-FRCNN/gt
+
+mv MOT17-04-CRVNN-img1-20sample/*.jpg MOT17-04-FRCNN/img1/
+cp det/det.txt MOT17-04-FRCNN/det/
+cp gt/gt.txt MOT17-04-FRCNN/gt/
+
+# Final structure:
+# MOT17-04-FRCNN/
+#   img1/
+#     000001.jpg
+#     000002.jpg
+#     ...
+#   det/
+#     det.txt
+#   gt/
+#     gt.txt
