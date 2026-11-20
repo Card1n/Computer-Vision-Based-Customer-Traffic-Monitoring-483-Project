@@ -50,3 +50,7 @@ Merl dataset: 106 videos of people shopping in a grocery-store setting, recorded
 
 Google Doc:https://docs.google.com/document/d/1BGIz4XP0IiK460JMR4NI85d7eCQkjVdntJ2RPkOFDP4/edit?usp=sharing
 
+## Roadmap
+The development plan (milestones, issues and implementation order) is in [docs/roadmap.md](docs/roadmap.md). Task status is tracked on the [Pedestrian Tracking Board](https://github.com/users/Card1n/projects/2).
+
+The original research paper is in [docs/research_paper.pdf](docs/research_paper.pdf).
